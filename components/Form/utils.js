@@ -2,8 +2,8 @@
 import axios from 'axios';
 
 // Environment variables to securely pass the Pinata keys
-const pinataApiKey = '9f24509800ddf04b9d53';
-const pinataSecretApiKey = '2744e8effb341faffa80224bbb67714130fafab280cf8058115de29923ba6350';
+const pinataApiKey = 'PASTE API KEY';
+const pinataSecretApiKey = 'PASTE SECRET API KEY';
 
 export const uploadToIPFS = async (formData) => {
   try {
