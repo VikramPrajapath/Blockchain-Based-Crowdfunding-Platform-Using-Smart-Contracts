@@ -5,7 +5,7 @@ ESLint Yes
 Tailwind CSS No
 'src/' directory? No
 App Router No
-inport alias No
+import alias No
 
 
 cd thesave
