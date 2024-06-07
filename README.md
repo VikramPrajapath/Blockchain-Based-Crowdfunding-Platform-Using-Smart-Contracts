@@ -1,2 +1,2 @@
-# VikramPrajapath/Blockchain-Based-Crowdfunding-Platform-Using-Smart-Contracts
+# Blockchain-Based-Crowdfunding-Platform-Using-Smart-Contracts
  
