@@ -60,8 +60,8 @@ const Form = () => {
       const response = await axios.post(url, formData, {
         headers: {
           'Content-Type': `multipart/form-data; boundary=${formData._boundary}`,
-          'pinata_api_key': '9f24509800ddf04b9d53',
-          'pinata_secret_api_key': '2744e8effb341faffa80224bbb67714130fafab280cf8058115de29923ba6350',
+          'pinata_api_key': 'PASTE API KEY',
+          'pinata_secret_api_key': 'PASTE SECRET API KEY',
         },
         
         maxContentLength: Infinity,
